@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS DESCRIPTION </h1>
+</head>
+<students>
+<student>
+<USN>USN	 :	1KN17CS050</USN>
+<name>NAME	 :	Md Ayaz</name>
+<college>college :	KNSIT</college>
+<branch>BRANCH	 :	CSE</branch>
+<year>YEAR	 :	2021</year>
+<e-mail>E-MAIL	 :	mdayaz6363@gmail.com</e-mail>
+</student>
+
+<student>
+<USN>USN	 :	1KN17CS054</USN>
+<name>NAME	 :	Md Farooq</name>
+<college>college :	KNSITIT</college>
+<branch>BRANCH	 :	CSE</branch>
+<year>YEAR	 :	2021</year>
+<e-mail>E-MAIL	 :	FAROOQ@gmail.com</e-mail>
+</student>
+
+<student>
+<USN>USN	 :	1KN17CS051</USN>
+<name>NAME	 :	Md Danish</name>
+<college>college :	KNSITIT</college>
+<branch>BRANCH	 :	CSE</branch>
+<year>YEAR	 :	2021</year>
+<e-mail>E-MAIL	 :	danish@gmail.com</e-mail>
+</student>
+
+</students>
+
+</html>
